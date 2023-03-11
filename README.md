@@ -1,2 +1,0 @@
-# NewCodingProject
-New repo
